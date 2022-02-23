@@ -3,7 +3,7 @@ package JAVA.Week4;
 public class work1 {
     public static void main(String[] args) {
 
-        int month = (int) (Math.random() * 12);
+        int month = (int) (Math.random() * 12+1);
         switch (month) {
             case 1:
                 System.out.println("1");
