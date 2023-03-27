@@ -1,6 +1,6 @@
 package W13;
 
-public class Asg1 {
+public class testTriangle {
      
     public static void main(String[] args){
         
